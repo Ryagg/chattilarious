@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+autopep8 = "*"
+dnspython = "*"
+flask-pymongo = "*"
+pycodestyle = "*"
+pymongo = "*"
+cloudinary = "*"
+flask-mail = "*"
+flask-talisman = "*"
+flask-seasurf = "*"
+flask-paginate = "*"
+pep8 = "*"
+python-dotenv = "*"
+pytest-cov = "*"
+pytest-xdist = "*"
+pytest = "*"
+pytest-flask = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
