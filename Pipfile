@@ -15,12 +15,14 @@ flask-seasurf = "*"
 flask-paginate = "*"
 pep8 = "*"
 python-dotenv = "*"
-pytest-cov = "*"
-pytest-xdist = "*"
-pytest = "*"
-pytest-flask = "*"
+pytest-cov = "==4.0.0"
+pytest-xdist = "==3.1.0"
+pytest = "==7.2.1"
+pytest-flask = "==1.2.0"
 flask-sqlalchemy = "*"
 psycopg2-binary = "*"
+flask-migrate = "*"
+docker-compose = "*"
 
 [dev-packages]
 
