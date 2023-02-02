@@ -23,6 +23,7 @@ flask-sqlalchemy = "*"
 psycopg2-binary = "*"
 flask-migrate = "*"
 docker-compose = "*"
+coverage = "*"
 
 [dev-packages]
 
